@@ -1,0 +1,13 @@
+.product-card {
+    max-width: 400px;
+    max-height: 400px;
+    height:30%;
+}
+
+.product-title {
+    font-size: 25px;
+    font-family: Arial cursive;
+}
+.product-image {
+    height: 250px;
+}
